@@ -1,0 +1,9 @@
+{
+  "Version": 1,
+  "Guid": "3df69105-9633-4984-b0f9-bce60c752808",
+  "Name": "steam_profile_button",
+  "Description": "Opens a player's Steam profile from the ESC squad menu. Press ESC, then F7, and a [Profile] button appears next to each squad member. Click to open that player's Steam profile in the Steam overlay browser. Press F6 at any time to rescan the current session. Read-only. Hotkey: F7 (while ESC menu is open), F6 (any time).",
+  "Options": [
+    { "Name": "steam_profile_button", "Description": "Steam profile buttons in the ESC squad menu.", "Include": ["Addon"] }
+  ]
+}
