@@ -63,3 +63,4 @@ Behavior notes
 
 steamUrlButton (untest) V1
 
+Thanks to all the open-source work out there—the approaches and API calls gave me a lot of inspiration. Thanks to DS.
